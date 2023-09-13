@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloe - Fitness Trainer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cloe</h1>
+        <p>Fitness Trainer</p>
+    </header>
+    
+    <div class="content">
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I'm Cloe, a fitness trainer dedicated to helping you achieve your health and fitness goals.</p>
+        
+        <h2>Services</h2>
+        <p>Here are some of the services I offer:</p>
+        <ul>
+            <li>Personalized Workout Plans</li>
+            <li>Nutritional Guidance</li>
+            <li>Weight Management</li>
+            <li>Strength Training</li>
+        </ul>
+        
+        <h2>Contact Me</h2>
+        <p>If you're ready to kickstart your fitness journey or have any questions, feel free to reach out:</p>
+        <p>Email: your.email@example.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </div>
+</body>
+</html>
